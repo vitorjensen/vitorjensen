@@ -8,6 +8,6 @@
 <h3>Language and Tools:</h3>
 <p align="center">
   <a href="https://github.com/vitorjensen">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,php,html,css,laravel,bootstrap,javascript,c,xampp" />
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,php,html,css,laravel,bootstrap,javascript,c,mysql" />
   </a>
 </p>
