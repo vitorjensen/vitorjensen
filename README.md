@@ -4,9 +4,9 @@
 - Back-End developer
 - 🔭 I’m currently learning and working on ...
 
-<h1>Language and Tools</h1>
+Language and Tools:
 <p align="center">
   <a href="https://github.com/vitorjensen">
-    <img src="https://skillicons.dev/icons?i=github,git,php,html,css,laravel,javascript" />
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,php,html,css,laravel,javascript" />
   </a>
 </p>
