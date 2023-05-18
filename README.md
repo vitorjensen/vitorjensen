@@ -5,6 +5,6 @@
 
 <p align="center">
   <a href="https://github.com/vitorjensen">
-    <img src="https://skillicons.dev/icons?i=git,php,css5,laravel,vim" />
+    <img src="https://skillicons.dev/icons?i=git,php,css,laravel,javascript" />
   </a>
 </p>
