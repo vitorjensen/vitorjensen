@@ -4,7 +4,7 @@
 - 🔭 I’m currently learning and working on ...
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <a href="https://github.com/vitorjensen">
+    <img src="https://skillicons.dev/icons?i=git,php,html5,laravel,vim" />
   </a>
 </p>
