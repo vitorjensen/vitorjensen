@@ -1,7 +1,7 @@
 ### Hey!! WhatsUp !? 👋
 - I'm Vitor Jensen !
 - Check new projects and commits 🚀🚀
-- Back-End developer
+- Back-End developer and Computer technician
 - Engineering computation 🖥️
 - 🔭 I’m currently learning and working on ...
 
