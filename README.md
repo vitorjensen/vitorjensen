@@ -2,7 +2,7 @@
 - I'm Vitor Jensen !
 - Check new projects and commits 🚀🚀
 - Back-End developer and Computer technician
-- Engineering computation 🖥️
+- Computer Engineering 🖥️
 - 🔭 I’m currently learning and working on ...
 
 <h3>Language and Tools:</h3>
