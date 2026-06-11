@@ -8,6 +8,6 @@
 <h3>Language and Tools:</h3>
 <p align="center">
   <a href="https://github.com/vitorjensen">
-    <img src="https://skillicons.dev/icons?i=git,python,powerbi,linux,sql,powerautomate" />
+    <img src="https://skillicons.dev/icons?i=git,python,powerbi,linux,sql,excel,lockerstudio" />
   </a>
 </p>
