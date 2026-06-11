@@ -8,7 +8,6 @@
 <h3>Language and Tools:</h3>
 <p align="center">
   <a href="https://github.com/vitorjensen">
-    <img src="https://skillicons.dev/icons?i=git,python,linux,sql,excel" />
-    <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=git,python,linux,sql,excel"/>
   </a>
 </p>
