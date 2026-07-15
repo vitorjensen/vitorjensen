@@ -12,7 +12,7 @@
   <a href="https://github.com/vitorjensen">
     <img src="https://skillicons.dev/icons?i=git,python,linux" height="50" />
   </a>
-  <img src="https://cdn.simpleicons.org/microsoftexcel" height="50" />
-  <img src="https://cdn.simpleicons.org/powerbi" height="50" />
-  <img src="https://cdn.simpleicons.org/powerautomate" height="50" />
+  <img src="https://img.shields.io/badge/-%20-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/-%20-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/-%20-0066FF?style=flat-square&logo=powerautomate&logoColor=white" height="28" />
 </p>
