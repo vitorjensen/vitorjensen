@@ -10,9 +10,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,python,linux" height="48"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="48"/>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48"/>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Microsoft_Power_Automate.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/microsoft-excel.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/power-bi.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/power-automate.svg" height="48"/>
 </p>
