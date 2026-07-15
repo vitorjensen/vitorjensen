@@ -30,7 +30,7 @@
       <img src="./selfhst--microsoft-power-automate.svg" height="48"/>
     </td>
     <td align="center">
-    <img src="./microsoft-sql-server-logo-svgrepo-com.svg" height="48"/>
+    <img src="./devicon--postgresql.svg" height="48"/>
     </td>
   </tr>
 </table>
