@@ -1,13 +1,18 @@
-### Hey!! WhatsUp !? 👋
-- I'm Vitor Jensen !
-- Check new projects and commits 🚀🚀
-- Back-End developer and Computer technician
-- Computer Engineering 🖥️
-- 🔭 I’m currently learning and working on ...
+### Hey!! What's Up!? 👋
 
-<h3>Language and Tools:</h3>
+- I'm Vitor Jensen!
+- 🚀 Check out my new projects and commits
+- 💻 Back-End Developer & Computer Technician
+- 🖥️ Computer Engineering student
+- 🔭 Currently learning and working on ...
+
+<h3>Languages and Tools:</h3>
+
 <p align="center">
   <a href="https://github.com/vitorjensen">
-    <img src="https://skillicons.dev/icons?i=git,python,linux,sql,excel"/>
+    <img src="https://skillicons.dev/icons?i=git,python,linux" />
   </a>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
 </p>
