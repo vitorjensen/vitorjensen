@@ -12,5 +12,5 @@
 
   <img src="./excel-svgrepo-com.svg" height="48"/>
   <img src="./logos--microsoft-power-bi.svg" height="46"/>
-  <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/power-automate.svg" height="48"/>
+  <img src="./selfhst--microsoft-power-automate.svg" height="48"/>
 </p>
