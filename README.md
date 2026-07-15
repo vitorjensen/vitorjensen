@@ -19,7 +19,7 @@
       <img src="https://skillicons.dev/icons?i=linux" height="48"/>
     </td>
     <td align="center">
-    <img src="./skill-icons--postgresql-light.svg" height="48"/>
+    <img src="./docker-svgrepo-com.svg" height="48"/>
     </td>
   </tr>
   <tr>
