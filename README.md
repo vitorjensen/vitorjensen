@@ -18,6 +18,9 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=linux" height="48"/>
     </td>
+    <td align="center">
+    <img src="./skill-icons--postgresql-light.svg" height="48"/>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -28,9 +31,6 @@
     </td>
     <td align="center">
       <img src="./selfhst--microsoft-power-automate.svg" height="48"/>
-    </td>
-    <td align="center">
-    <img src="./skill-icons--docker.svg" height="48"/>
     </td>
   </tr>
 </table>
