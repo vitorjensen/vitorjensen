@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,python,linux" height="48"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/microsoft-excel.svg" height="48"/>
+  <img src="./excel-svgrepo-com.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/power-bi.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/power-automate.svg" height="48"/>
 </p>
