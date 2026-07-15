@@ -10,12 +10,9 @@
 
 <p align="center">
   <a href="https://github.com/vitorjensen">
-    <img src="https://skillicons.dev/icons?i=git,python,linux" />
+    <img src="https://skillicons.dev/icons?i=git,python,linux" height="50" />
   </a>
-  <br>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <br>
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel" height="50" />
+  <img src="https://cdn.simpleicons.org/powerbi" height="50" />
+  <img src="https://cdn.simpleicons.org/powerautomate" height="50" />
 </p>
