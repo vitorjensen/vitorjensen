@@ -33,7 +33,7 @@
       <img src="./selfhst--microsoft-power-automate.svg" height="48"/>
     </td>
     <td align="center">
-  <img src="./mysql-logo-svgrepo-com.svg" height="48"/>
+  <img src="./selfhst--postgresql.svg" height="48"/>
     </td>
   </tr>
 </table>
