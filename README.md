@@ -8,9 +8,11 @@
 <h3 align="center">Languages & Tools</h3>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,python,linux" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git,python,linux" height="48"/>
 
-    <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48"/>
-    <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48"/>
-    <img src="https://cdn.simpleicons.org/powerautomate/0066FF" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="48"/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48"/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Microsoft_Power_Automate.svg" height="48"/>
 </p>
